@@ -1,4 +1,4 @@
 # TodoList-vue2.js
 
-Todo list using vue2.js 
-the app code is included in todo.vue 
+1- Run npm install
+2- Run npm run dev
